@@ -2,8 +2,6 @@
 
 
 
-
-
 ## Contents at a Glance.
 * [About](#about)
 * [Documentation.](#documentation)
@@ -13,17 +11,11 @@
 
 
 
-
-
 ## About.
 
 
 
-
-
 ## Documentation.
-
-
 
 
 
@@ -38,8 +30,6 @@
 
 
 
-
-
 ## Type of APIs.
 * APIs come in many flavors
 * Clicking on a link in an email message is executing an API
@@ -51,12 +41,27 @@
 
 
 
-
-
 ## API idempotency.
 
 
 
+## Faces del ciclo de vida una API.
+1. Estrategia
+   * Definir los objetivos que se desea alcanzar con las API.
+   * Que mercado se va abordar.
+   * Que recursos se tienen a disposicion.
+   * Que marco de tiempo se tiene para alcanzar los objetivos.
+2. Diseno
+   * Indentificar entidades de negocio.
+   * Modelar entidades de negocio.
+   * Documentar API
+   * Disenar el contrato de la API (Open API)
+   * Compartir diseno con futuros consumidores (YAML)
+
+
+  
+## Interesting links.
+* [Full API lifecycle management: A primer](https://developers.redhat.com/blog/2019/02/25/full-api-lifecycle-management-a-primer#)
 
 
 
